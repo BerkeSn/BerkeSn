@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 # 💫 About Me:
 I am a passionate developer with experience in building projects using HTML, CSS, JavaScript, Vue.js, Node.js, Java, and Flutter. My academic background includes Computer Education & Instructional Technology at Yildiz Technical University and Computer Programming at Istanbul University.
